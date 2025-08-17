@@ -1,4 +1,4 @@
-# 🎵 StartingLine for Reaper
+# 🏁 StartingLine for Reaper
 
 Tired of that endless drag? You chop your samples, record takes, and suddenly your Reaper timeline is a mess. Manually pulling everything back to the start is a workflow killer.
 
